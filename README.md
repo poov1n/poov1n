@@ -1,4 +1,4 @@
-<h1>Hi, I'm Poovin <br/><a href="https://github.com/V4g4b0nd"> <a href="https://www.linkedin.com/in/joshmadakor/"> 
+<h1>Hi, I'm Poovin <br/><a href="https://github.com/V4g4b0nd"> <a href="https://www.linkedin.com/in"> 
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
