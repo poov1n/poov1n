@@ -1,19 +1,18 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/poovin-prakash">Poovin<a> <br/>
+  <h3>Welcome to my Github 😉<h3>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-
-
-  - [SIEM with Azure Sentinel](https://github.com/V4g4b0nd/Projects/blob/main/Azure_Sentinal/readme.md)
-  - [File Integrity Monitor (FIM)](https://github.com/V4g4b0nd/Projects/blob/main/FIM(File%20Integriy%20Manager)/readme.md)
-
-<h2>🐍Python<h2>
-  - [WebScrapping Basic and Advanced](https://github.com/V4g4b0nd/Webscrapping/blob/main/README.md)
-  
+  - <a href= "https://github.com/V4g4b0nd/Projects/blob/main/Azure_Sentinal/readme.md">[SIEM with Azure Sentinel]<a><br>
+  - <a href = "https://github.com/V4g4b0nd/Projects/blob/main/FIM(File%20Integriy%20Manager/readme.md">[File Integrity Monitor (FIM)]<a>
+<br/>
+<h2>🐍Python</h2>
+  - <a href= "https://github.com/V4g4b0nd/Webscrapping/blob/main/README.md">[WebScrapping Basic and Advanced]<a>
+<br> 
 <h2>📃Certifications:</h2>
- 
- - [Google IT Support Professional Certificate](https://github.com/)
-
-<h2>💻Trainings<h2>
+ - <a href = "https://www.credly.com/badges/512ea3d7-5058-4620-a96a-335482edce7b?source=linked_in_profile">[Google IT Support Professional Certificate]<a>
+<br/>
+<h2>💻Training</h2>
+ - <a href = "https://www.udemy.com/certificate/UC-d4cb6fa1-41b2-4635-b9df-c70d384bccbc/">[Ethical Hacking | Bug Bounty by <a href ="https://www.youtube.com/@phdsecurity4081">PHD Security<a> <a>
 
 <!--
 **V4g4b0nd/V4g4b0nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
