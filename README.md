@@ -7,7 +7,7 @@
   - <a href = "https://github.com/V4g4b0nd/Projects/tree/main/NESSUS%20Vulnerability%20Management">[Vulnerability Management using Nessus]<a>
 <br/>
 <h2>🐍Python</h2>
-  - <a href= "https://github.com/V4g4b0nd/Webscrapping/blob/main/README.md">[WebScrapping Basic and Advanced]<a>
+  - <a href= "https://github.com/V4g4b0nd/Python/blob/main/Webscrapping/README.md">[WebScrapping Basic and Advanced]<a>
 <br> 
 <h2>📃Certifications:</h2>
  - <a href = "https://www.credly.com/badges/512ea3d7-5058-4620-a96a-335482edce7b?source=linked_in_profile">[Google IT Support Professional Certificate]<a>
