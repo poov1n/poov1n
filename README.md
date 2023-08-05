@@ -14,14 +14,13 @@
   - <a href= "https://github.com/V4g4b0nd/Python/blob/main/Webscrapping/README.md">[WebScrapping Basic and Advanced]<a>
 <br> 
 
-<!--
 <h2>📃Certifications:</h2>
  - <a href = "https://www.credly.com/badges/512ea3d7-5058-4620-a96a-335482edce7b?source=linked_in_profile">[Google IT Support Professional Certificate]<a>
 <br/>
 <h2>💻Training</h2>
  - <a href = "https://www.udemy.com/certificate/UC-d4cb6fa1-41b2-4635-b9df-c70d384bccbc/">[Ethical Hacking | Bug Bounty by <a href ="https://www.youtube.com/@phdsecurity4081">PHD Security<a> <a>
 
-
+<!--
 **V4g4b0nd/V4g4b0nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
